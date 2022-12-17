@@ -1,0 +1,8 @@
+C:\Users\linat\Desktop\TUTA\LecturesV_2\06 Source Control + Basic Programming\LearningDotNet\LearningArrays\bin\Debug\LearningArrays.exe.config
+C:\Users\linat\Desktop\TUTA\LecturesV_2\06 Source Control + Basic Programming\LearningDotNet\LearningArrays\bin\Debug\LearningArrays.exe
+C:\Users\linat\Desktop\TUTA\LecturesV_2\06 Source Control + Basic Programming\LearningDotNet\LearningArrays\bin\Debug\LearningArrays.pdb
+C:\Users\linat\Desktop\TUTA\LecturesV_2\06 Source Control + Basic Programming\LearningDotNet\LearningArrays\obj\Debug\LearningArrays.csproj.AssemblyReference.cache
+C:\Users\linat\Desktop\TUTA\LecturesV_2\06 Source Control + Basic Programming\LearningDotNet\LearningArrays\obj\Debug\LearningArrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\linat\Desktop\TUTA\LecturesV_2\06 Source Control + Basic Programming\LearningDotNet\LearningArrays\obj\Debug\LearningArrays.csproj.CoreCompileInputs.cache
+C:\Users\linat\Desktop\TUTA\LecturesV_2\06 Source Control + Basic Programming\LearningDotNet\LearningArrays\obj\Debug\LearningArrays.exe
+C:\Users\linat\Desktop\TUTA\LecturesV_2\06 Source Control + Basic Programming\LearningDotNet\LearningArrays\obj\Debug\LearningArrays.pdb
