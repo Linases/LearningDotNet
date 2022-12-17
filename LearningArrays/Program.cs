@@ -21,10 +21,14 @@ namespace LearningArrays
 
 
             int[] intArray = new int[20];
-       
-            for (int i = intArray.Length - 1; i >= 0; i--)
+
+            for (int i = 0; i < intArray.Length; i++)
             {
                 intArray[i] = i;
+            }
+
+            for (int i = intArray.Length - 1; i >= 0; i--)
+            {
                 Console.WriteLine(intArray[i]);
             }
         }
